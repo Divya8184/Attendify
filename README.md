@@ -378,30 +378,3 @@ vercel
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ⚠️ Important Notes
-
-1. **Change JWT_SECRET** - Use a strong, unique secret in production
-2. **Database Security** - Use MongoDB Atlas instead of local MongoDB for production
-3. **Environment Variables** - Never commit .env files to Git
-4. **Default Passwords** - Change default login credentials after setup
-5. **HTTPS** - Use HTTPS in production
-
-## 📞 Support
-
-For issues and questions:
-1. Check existing GitHub issues
-2. Create a new issue with detailed description
-3. Include error messages and screenshots
-
-## 👨‍💻 Author
-
-Created with ❤️ for educational institutions
-
----
-
-**Last Updated:** December 2025
-**Version:** 1.0.0
